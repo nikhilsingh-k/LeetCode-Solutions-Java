@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
