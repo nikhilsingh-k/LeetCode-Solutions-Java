@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
@@ -33,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
