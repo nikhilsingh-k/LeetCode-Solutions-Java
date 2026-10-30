@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1470-shuffle-the-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
