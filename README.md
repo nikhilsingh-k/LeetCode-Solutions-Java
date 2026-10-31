@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0724-find-pivot-index) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
