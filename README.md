@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
