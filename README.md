@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1929-concatenation-of-array) |
 ## Matrix
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0709-to-lower-case) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
