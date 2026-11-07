@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0724-find-pivot-index) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1480-running-sum-of-1d-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0303-range-sum-query-immutable) |
 | [1603-design-parking-system](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
