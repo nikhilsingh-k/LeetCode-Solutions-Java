@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0258-add-digits) |
 | [1603-design-parking-system](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1929-concatenation-of-array) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
