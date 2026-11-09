@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
