@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
