@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0303-range-sum-query-immutable) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
 |  |
@@ -138,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
