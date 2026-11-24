@@ -12,8 +12,8 @@ class MyLinkedList {
     private int size;
 
     public MyLinkedList() {
-        head = new Node(0);   // dummy head
-        tail = new Node(0);   // dummy tail
+        head = new Node(0);   
+        tail = new Node(0);  
         head.next = tail;
         tail.prev = head;
         size = 0;
