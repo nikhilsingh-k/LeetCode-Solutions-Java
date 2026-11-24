@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
