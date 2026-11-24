@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/1603-design-parking-system) |
 ## Counting
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/nikhilsingh-k/LeetCode-Solutions-Java/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
